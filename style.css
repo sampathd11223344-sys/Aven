@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#f4f7fc;
+    background:red;
     color:#333;
 }
 
@@ -111,4 +111,5 @@ footer{
     color:white;
     text-align:center;
     padding:15px;
+
 }
